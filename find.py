@@ -1,4 +1,4 @@
-sample = input("Enter the word: ").lower()
+sample = input("Please Enter the word: ").lower()
 vowels = ['a','e','i','o','u']
 list1 = []
 for sam in sample:
